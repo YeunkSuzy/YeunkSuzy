@@ -1,4 +1,4 @@
-# Hi 🎉 Welcome to YeunKSuzy's Github Homepage!
+# Hi 🎉 Welcome to YeunK's Github Homepage!
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=In-game;There%20is%20nothing%20to%20see%20here.&font=Roboto" />
 
