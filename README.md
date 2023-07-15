@@ -1,6 +1,6 @@
 # Hi 🎉 Welcome to YeunKSuzy's Github Homepage!
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=There is nothing to see here.;消息2&font=Roboto" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=In-game;There%20is%20nothing%20to%20see%20here.&font=Roboto" />
 
 - 📙 Focusing on Sony & iOS
 - 💎 Fans of Lisa & Tay 
@@ -8,7 +8,7 @@
 - 🧑‍🎓 A master in University of Science and Technology of China(USTC)
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=YeunKSuzy&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=YeunKSuzy&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
 <!--
