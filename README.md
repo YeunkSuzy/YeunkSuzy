@@ -1,6 +1,6 @@
 # Hi 🎉 Welcome to YeunK's Github Homepage!
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=In-game;There%20is%20nothing%20to%20see%20here.&font=Roboto" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Sleeping;There%20is%20nothing%20to%20see%20here.&font=Roboto" />
 
 - 📙 Focusing on Sony & iOS
 - 💎 Fans of Jisoo & Tay 
